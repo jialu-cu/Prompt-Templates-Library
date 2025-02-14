@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consumer_goods_consulting_firms_fashion_trends_2019_2023_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Retail Consulting Firms",
+    "leader_persona": "Global Consumer Industry Leader",
+    "expected_llm_role": "Analyze how fashion and apparel spending has evolved over multiple decades.",
+    "use_cases": [
+        "Understand how economic and cultural factors impact fashion consumption."
+    ],
+    "sample_questions": [
+        "How has consumer spending on apparel changed in 2019-2023?"
+    ]
+}

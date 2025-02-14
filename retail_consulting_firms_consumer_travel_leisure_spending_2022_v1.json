@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consulting_firms_consumer_travel_leisure_spending_2022_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Retail Consulting Firms",
+    "leader_persona": "Global Consumer Industry Leader",
+    "expected_llm_role": "Analyze how consumer spending on travel and leisure correlates with online retail sales.",
+    "use_cases": [
+        "Identify how travel-related expenditures influence e-commerce activity."
+    ],
+    "sample_questions": [
+        "How does consumer spending on travel and leisure correlate with overall online retail sales in 2022?"
+    ]
+}

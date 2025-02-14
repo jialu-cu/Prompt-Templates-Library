@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consulting_firms_global_consumer_beauty_products_spending_2022_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Retail Consulting Firms",
+    "leader_persona": "Global Consumer Industry Leader",
+    "expected_llm_role": "Analyze consumer spending on personal care and beauty products.",
+    "use_cases": [
+        "Track spending trends on beauty and personal care products by demographic segments."
+    ],
+    "sample_questions": [
+        "What percentage of total consumer spending was allocated to personal care and beauty products in 2022?"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consumer_goods_consulting_firms_travel_expenditures_2010_2020_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Retail Consulting Firms",
+    "leader_persona": "Global Consumer Industry Leader",
+    "expected_llm_role": "Analyze travel expenditures over multiple decades and their relation to consumer trends.",
+    "use_cases": [
+        "Evaluate how shifts in economic conditions have impacted travel spending."
+    ],
+    "sample_questions": [
+        "What were the trends in consumer travel expenditures in 2010-2020?"
+    ]
+}

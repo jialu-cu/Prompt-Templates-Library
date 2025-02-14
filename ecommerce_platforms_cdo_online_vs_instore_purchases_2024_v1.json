@@ -1,0 +1,13 @@
+{
+    "prompt_id": "ecommerce_platforms_cdo_online_vs_instore_purchases_2024_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "E-commerce Platforms",
+    "leader_persona": "Chief Data Officer (CDO)",
+    "expected_llm_role": "Compare consumer preferences for online vs. in-store purchases.",
+    "use_cases": [
+        "Analyze how digital shopping behavior has evolved in recent years."
+    ],
+    "sample_questions": [
+        "How has consumer spending on household furnishings and equipment changed over the past five years?"
+    ]
+}

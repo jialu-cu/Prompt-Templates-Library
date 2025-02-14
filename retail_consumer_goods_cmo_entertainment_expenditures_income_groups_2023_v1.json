@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consumer_goods_cmo_entertainment_expenditures_income_groups_2023_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Consumer Goods Companies",
+    "leader_persona": "Chief Marketing Officer (CMO)",
+    "expected_llm_role": "Analyze spending trends on entertainment-related purchases.",
+    "use_cases": [
+        "Determine what entertainment categories see the most spending across income groups."
+    ],
+    "sample_questions": [
+        "Which income groups spend the most on entertainment-related purchases such as fees, admissions, and audiovisual equipment in 2023?"
+    ]
+}

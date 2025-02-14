@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consumer_goods_cmo_online_vs_instore_spending_2019_2023_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "E-commerce Platforms",
+    "leader_persona": "Chief Data Officer (CDO)",
+    "expected_llm_role": "Compare online vs. in-store spending trends over time.",
+    "use_cases": [
+        "Analyze how consumer preferences for online shopping evolved."
+    ],
+    "sample_questions": [
+        "What were the consumer spending patterns for online vs. in-store purchases in 2019-2023?"
+    ]
+}

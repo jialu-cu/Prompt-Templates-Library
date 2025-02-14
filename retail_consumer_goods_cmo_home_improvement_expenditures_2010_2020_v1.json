@@ -1,0 +1,13 @@
+{
+    "prompt_id": "retail_consumer_goods_cmo_home_improvement_expenditures_2010_2020_v1",
+    "domain": "Retail & Consumer Goods Industry",
+    "division": "Consumer Goods Companies",
+    "leader_persona": "Chief Marketing Officer (CMO)",
+    "expected_llm_role": "Analyze consumer spending on home improvement projects over several decades.",
+    "use_cases": [
+        "Evaluate how home renovation and repair expenditures have changed."
+    ],
+    "sample_questions": [
+        "How did consumer spending on home improvement compare in 2010-2020?"
+    ]
+}
