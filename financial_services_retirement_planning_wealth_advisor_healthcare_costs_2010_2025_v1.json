@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_retirement_planning_wealth_advisor_healthcare_costs_2010_2025_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Retirement Planning",
+    "leader_persona": "Wealth Advisor",
+    "expected_llm_role": "Analyze expenditure patterns of retirees and their impact on savings.",
+    "use_cases": [
+        "Understand how retirees allocate their budgets."
+    ],
+    "sample_questions": [
+        "How do healthcare costs impact retirees' overall financial stability during 2010-2025?"
+    ]
+}

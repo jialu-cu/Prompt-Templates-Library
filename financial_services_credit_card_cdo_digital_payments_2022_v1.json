@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_credit_card_cdo_digital_payments_2022_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Credit Card Companies",
+    "leader_persona": "Chief Data Officer (CDO)",
+    "expected_llm_role": "Assess the impact of digital payments on consumer spending behaviors.",
+    "use_cases": [
+        "Analyze how digital payment adoption affects consumer purchase patterns."
+    ],
+    "sample_questions": [
+        "What percentage of total consumer spending was conducted via digital payments in 2022?"
+    ]
+}

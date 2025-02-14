@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_investment_research_equity_analyst_energy_spending_2021_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Investment Research",
+    "leader_persona": "Equity Analyst",
+    "expected_llm_role": "Analyze how energy costs influenced consumer spending habits.",
+    "use_cases": [
+        "Compare energy spending trends and their impact on discretionary income."
+    ],
+    "sample_questions": [
+        "How did changes in energy prices affect consumer discretionary spending in 2021?"
+    ]
+}

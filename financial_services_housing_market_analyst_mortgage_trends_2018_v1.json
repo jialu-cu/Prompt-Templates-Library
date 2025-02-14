@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_housing_market_analyst_mortgage_trends_2018_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Housing Market Research",
+    "leader_persona": "Market Analyst",
+    "expected_llm_role": "Analyze consumer expenditures related to mortgage payments and housing affordability.",
+    "use_cases": [
+        "Evaluate the impact of mortgage rate changes on household budgets."
+    ],
+    "sample_questions": [
+        "How did mortgage rate increases in 2018 impact household affordability?"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_housing_market_analyst_home_expenditures_2011_2021_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Housing Market Research",
+    "leader_persona": "Market Analyst",
+    "expected_llm_role": "Analyze consumer expenditures related to homeownership and rental markets.",
+    "use_cases": [
+        "Evaluate housing affordability trends based on consumer spending data."
+    ],
+    "sample_questions": [
+        "How have household expenditures on homeownership and rent changed during 2011-2021?"
+    ]
+}

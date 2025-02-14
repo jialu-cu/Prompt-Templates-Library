@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_economic_research_chief_economist_inflation_impact_2010_2020_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Economic Research",
+    "leader_persona": "Chief Economist",
+    "expected_llm_role": "Analyze the impact of inflation on consumer spending trends.",
+    "use_cases": [
+        "Examine how inflation affects discretionary spending."
+    ],
+    "sample_questions": [
+        "How has inflation influenced household expenditures during 2010-2020?"
+    ]
+}

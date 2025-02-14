@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_credit_card_cdo_spending_categories_2012_2022_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Credit Card Companies",
+    "leader_persona": "Chief Data Officer (CDO)",
+    "expected_llm_role": "Identify consumer credit spending trends and risks.",
+    "use_cases": [
+        "Assess credit risk by analyzing expenditure trends."
+    ],
+    "sample_questions": [
+        "Which spending categories contributed most to credit card debt during 2012-2022?"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_investment_research_equity_analyst_regional_spending_2010_2023_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Investment Research",
+    "leader_persona": "Equity Analyst",
+    "expected_llm_role": "Analyze regional spending patterns to guide market expansion.",
+    "use_cases": [
+        "Compare consumer expenditures across different U.S. regions."
+    ],
+    "sample_questions": [
+        "Which U.S. regions have experienced the highest growth in consumer spending during 2010-2023?"
+    ]
+}

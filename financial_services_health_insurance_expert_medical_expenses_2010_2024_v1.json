@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_health_insurance_expert_medical_expenses_2010_2024_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Health Insurance Analysis",
+    "leader_persona": "Insurance Expert",
+    "expected_llm_role": "Analyze trends in medical expenditures and their impact on insurance coverage.",
+    "use_cases": [
+        "Assess household medical spending patterns across demographics."
+    ],
+    "sample_questions": [
+        "How have out-of-pocket medical expenses varied across income groups during 2010-2024?"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_economic_research_chief_economist_food_prices_2020_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Economic Research",
+    "leader_persona": "Chief Economist",
+    "expected_llm_role": "Examine how fluctuations in food prices impacted consumer spending.",
+    "use_cases": [
+        "Determine the relationship between inflation and food expenditures."
+    ],
+    "sample_questions": [
+        "How did rising food prices affect household spending in 2020?"
+    ]
+}

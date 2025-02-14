@@ -1,0 +1,13 @@
+{
+    "prompt_id": "financial_services_asset_management_cio_spending_habits_2023_v1",
+    "domain": "Financial Services and Investment Industry",
+    "division": "Asset Management Firms",
+    "leader_persona": "Chief Investment Officer (CIO)",
+    "expected_llm_role": "Analyze consumer spending trends and their impact on stock market sectors.",
+    "use_cases": [
+        "Identify trends in consumer spending to guide investment decisions."
+    ],
+    "sample_questions": [
+        "What were the major consumer spending trends in 2023?"
+    ]
+}
